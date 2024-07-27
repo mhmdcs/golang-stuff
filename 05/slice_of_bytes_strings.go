@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func main() {
 	s := []byte("string")
 
 	fmt.Println(len(s), s)
